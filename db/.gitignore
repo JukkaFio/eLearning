@@ -1,0 +1,16 @@
+.gen/
+.env
+_out/
+dist/
+edmx/
+gen/
+mta_archives/
+node_modules/
+target/
+.DS_Store
+connection.properties
+default-env.json
+.cdsrc-private.json
+
+@types/
+@cds-models/
